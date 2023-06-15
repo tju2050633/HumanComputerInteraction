@@ -5,7 +5,7 @@ from io import BytesIO
 import os
 import playsound
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 messages = [
     {"role": "system", "content": "You are a helpful assistant."},

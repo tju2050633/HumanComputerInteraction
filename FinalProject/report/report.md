@@ -1,10 +1,10 @@
 #  SpeakAI: a smart assistant program
 
-<div style="text-align:center">2050633 Lu Jialin</div>
+<div style="text-align:center">2050633 Lu Jialin (Sophomore)</div>
 
-<div style="text-align:center">2050605 Yan Wenhao</div>
+<div style="text-align:center">2050605 Yan Wenhao (Sophomore)</div>
 
-<div style="text-align:center">2051475 Wang Hao</div>
+<div style="text-align:center">2051475 Wang Hao (Sophomore)</div>
 
 ## Brief Description
 
@@ -76,7 +76,22 @@ This is the result:
 
 **Email Processing Module**: The Email Processing Module allows users to manage their email communication seamlessly. It enables the program to check for new emails and conveniently display the contents in the text box for users to review. Additionally, users can leverage the functionality to compose and send emails, with the generated responses from the GPT-3 model serving as the email content. This module enhances user interaction by integrating email communication within the intelligent assistant program.
 
+We use the qq mailbox to test the function of the program: 
+
 <img src="./../images/email.png" width="300">
+
+After entering the email information, the email function can be used:
+
+<img src="./../images/email1.png" width="300">
+
+<img src="./../images/email2.png" width="300">
+
+After sending the email, you can check the result through the email:
+
+<img src="./../images/getEmail1.jpg" width="300">
+
+<img src="./../images/getEmail2.jpg" width="300">
+
 
 ### 4. User Interaction and User-Friendly Elements:
 
@@ -164,7 +179,7 @@ Lu Jialin played a key role in the project as the main backend developer. He was
 
 ### Yan Wenhao 2050605: 
 
-Yan Wenhao made significant contributions to the project as the main frontend developer. His primary focus was on designing and implementing the user interface and frontend functionality. Yan Wenhao utilized his creativity and knowledge of frontend technologies to create an engaging and user-friendly interface. He implemented interactive features, optimized the user experience, and ensured seamless integration with the backend. Yan Wenhao's contributions were crucial in delivering a visually appealing and intuitive frontend for the program.
+Yan Wenhao made significant contributions to the project as the main frontend developer. His primary focus was on designing and implementing the user interface ,frontend functionality and Email Processing Module. Yan Wenhao utilized his creativity and knowledge of frontend technologies to create an engaging and user-friendly interface. He implemented interactive features, optimized the user experience, and ensured seamless integration with the backend. Yan Wenhao's contributions were crucial in delivering a visually appealing and intuitive frontend for the program.
 
 ### Wang Hao 2051475: 
 

@@ -93,7 +93,8 @@ class Ui_MainWindow(object):
         self.horizontalLayout1.addWidget(self.stopRecordingButton)
         self.verticalLayout.addLayout(self.horizontalLayout1)
 
-        self.pushButton = QtWidgets.QPushButton(self.centralwidget)
+        self.pushButton = QtWidgets.QPushButton(
+            "发送消息", self.centralwidget)
         self.pushButton.setObjectName("pushButton")
         # self.verticalLayout.addWidget(self.pushButton)
 
@@ -179,7 +180,7 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate(
             "MainWindow", "SpeakAI: a smart assistant program"))
-        self.pushButton.setText(_translate("MainWindow", "Send"))
+        self.pushButton.setText(_translate("MainWindow", "发送消息"))
 
     def processInput(self):
         userInput = self.lineEdit.text()
